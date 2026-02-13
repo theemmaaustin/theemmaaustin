@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Emma Austin
 
-<!--
-**theemmaaustin/theemmaaustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at NJIT  
+💻 Interested in FinTech, Data Science & AI  
+📊 Passionate about predictive modeling and analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on:
+- Machine Learning Projects
+- Financial Data Analysis
+- Backend Development
+
+---
+
+### 🛠 Languages and Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](your-link)
