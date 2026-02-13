@@ -31,6 +31,9 @@ Computer Science Honors student at NJIT with a strong interest in fintech, syste
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>
 </p>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bloomberg_logo.svg" width="90"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/TradingView_Logo.svg" width="90"/>
+
 
 ---
 
