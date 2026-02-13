@@ -1,10 +1,13 @@
 # Hi 👋, I'm Emma Austin
 
-🎓 Computer Science Student at NJIT  
-💻 Interested in FinTech, Data Science & AI  
-📊 Passionate about predictive modeling and analytics  
+Computer Science Honors student at NJIT with a strong interest in fintech, systems thinking, and scalable data systems.
 
----
+🔭 Currently building data-driven projects and analytical tools that solve real-world problems. 
+🌱 Exploring financial analytics, cloud infrastructure, and scalable backend architecture.  
+📊 Passionate about turning complex datasets into strategic insights.  
+💬 Ask me about Python, C++, R, SQL, or building data solutions..  
+📫 Let's Connect: austingabrielemmanuella@gmail.com
+
 
 ### 🔭 I’m currently working on:
 - Machine Learning Projects
