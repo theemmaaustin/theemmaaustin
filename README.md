@@ -34,4 +34,4 @@ Computer Science Honors student at NJIT with a strong interest in fintech, syste
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](your-link)
+[LinkedIn](https://www.linkedin.com/in/emmaaustingabriel/)
