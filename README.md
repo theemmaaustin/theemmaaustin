@@ -5,7 +5,7 @@ Computer Science Honors student at NJIT with a strong interest in fintech, syste
 🔭 Currently building data-driven projects and analytical tools that solve real-world problems. 
 🌱 Exploring financial analytics, cloud infrastructure, and scalable backend architecture.  
 📊 Passionate about turning complex datasets into strategic insights.  
-💬 Ask me about Python, C++, R, SQL, or building data solutions..  
+💬 Ask me about Python, Java, C++, R, SQL, or building data solutions..  
 📫 Let's Connect: austingabrielemmanuella@gmail.com
 
 ---
