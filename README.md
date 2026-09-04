@@ -1,6 +1,6 @@
 # Hi 👋, I'm Emma Austin
 
-Computer Science Honors student at NJIT with a strong interest in fintech, systems thinking, and scalable data systems.
+Computer Science Honors student at Montclair State University with a strong interest in fintech, systems thinking, and scalable data systems.
 
 🔭 Currently building data-driven projects and analytical tools that solve real-world problems. 
 🌱 Exploring financial analytics, cloud infrastructure, and scalable backend architecture.  
